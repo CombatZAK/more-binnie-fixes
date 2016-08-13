@@ -1,0 +1,16 @@
+[
+{
+  "modid": "binniefixes",
+  "name": "More Binnie Fixes",
+  "description": "More fixes to binnies mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CombatZAK"],
+  "credits": "Mezz, Binnie, Chocohead",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
