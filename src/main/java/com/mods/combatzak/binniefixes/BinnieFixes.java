@@ -45,7 +45,7 @@ public class BinnieFixes implements IFMLLoadingPlugin {
 	public static class BinnieFixesContainer extends DummyModContainer {
 		public static final String MODID = "binniefixes";
 		public static final String MOD_NAME = "More Binnie Fixes";
-		public static final String MOD_VERSION = "1.0";
+		public static final String MOD_VERSION = "1.0.1";
 		
 		@Mod.Instance("binniefixes")
 		public static BinnieFixesContainer instance;
